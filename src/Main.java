@@ -6,8 +6,8 @@ import java.util.zip.ZipOutputStream;
 
 public class Main {
 
-    private static final String pathToSaves = "C:/Games/saveGames/";
-    private static final String zipSaves = "C:/Games/saveGames/saveGames.zip";
+    private static String pathToSaves = "C:/Games/saveGames/";
+    private static String zipSaves = "C:/Games/saveGames/saveGames.zip";
 
     public static void main(String[] args) {
 
